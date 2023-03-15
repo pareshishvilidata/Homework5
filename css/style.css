@@ -199,6 +199,10 @@ article {
     vertical-align: middle;
 }
 
+.section2img2 {
+    margin-top: 83px;
+}
+
 .section2button2 {
     font-weight: 400;
     font-size: 14px;
@@ -219,4 +223,79 @@ article {
     font-weight: 400;
     font-size: 24px;
     color: #535353;
+}
+
+footer {
+    width: 1440px;
+    height: 385px;
+    margin: auto;
+    background-color: #2A9D8F;
+    margin-top: 200px;
+}
+
+.footerimage {
+    width: 98px;
+    height: 98px;
+    color: #FFFFFF;
+    margin-left: 130px;
+    margin-top: 80px;
+}
+
+.footdiv1 {
+    display: inline-block;
+    margin-left: 415px;
+}
+
+.foottitle1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+
+.foottext {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.foottext1 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.footdiv2 {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.foottitle2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 80px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+
+.footdiv3 {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.foottitle3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.foottext2 {
+    width: 300px;
 }
