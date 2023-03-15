@@ -1,0 +1,57 @@
+header {
+    margin: auto;
+    width: 1440px;
+    background-color: #FFFFFF;
+}
+
+.headerlogo {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 38px 15px 38px 130px;
+}
+
+.headername {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+    color: #34364A;
+}
+
+.headernav {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.headertext {
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 400;
+    font-size: 20px;
+    color: #6D6D6D;
+    font-family: 'Nerko One', cursive;
+}
+
+.headerbutton {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 250px;
+    width: 155px;
+    height: 45px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #2A9D8F;
+    padding: 8px 19px;
+}
+
+.headtext1 {
+    margin-left: 280px;
+}
+
+.headtext2 {
+    margin-left: 55px;
+    margin-right: 55px;
+}
